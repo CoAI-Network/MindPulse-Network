@@ -40,16 +40,16 @@ Core values and foundational pillars of the network:
 Shape the future of CoAI Network with your voice:
 
 🔹 **Introduce yourself!**  
-👉 https://github.com/CoAI-Network/coai-network/discussions/1
-
-🔹 **Discuss our Mission & Values**  
 👉 https://github.com/CoAI-Network/coai-network/discussions/2
 
-🔹 **Share your Project or Idea**  
+🔹 **Discuss our Mission & Values**  
 👉 https://github.com/CoAI-Network/coai-network/discussions/3
 
-🔹 **Help us design our Governance**  
+🔹 **Share your Project or Idea**  
 👉 https://github.com/CoAI-Network/coai-network/discussions/4
+
+🔹 **Help us design our Governance**  
+👉 https://github.com/CoAI-Network/coai-network/discussions/5
 
 🧠 Explore all conversations:  
 https://github.com/CoAI-Network/coai-network/discussions
