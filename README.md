@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo-banner.svg" width="85%" alt="CoAI Network Banner"/>
+  <img src="./assets/logos/logo-full.svg" width="85%" alt="CoAI Network Banner"/>
 </p>
 
 <h3 align="center">
