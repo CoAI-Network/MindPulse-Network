@@ -54,3 +54,26 @@ Ways you can contribute right now:
 
 ## 🧩 Project Structure (initial)
 
+/site → Public landing (Neocities)
+
+/docs → Core policies and foundational documents
+
+/events → Talks, webinars and community meetups
+
+/projects → Project proposals & showcases
+
+/assets → Logo and brand files
+
+
+---
+
+## 🏛 Governance
+
+Led initially by the founding team, evolving toward **transparent community governance** with votes and open moderation processes.
+
+Together, we build the norms and future of the network.
+
+---
+
+**CoAI Network — Collaborative · Responsible · Human-Centered AI**  
+Let’s shape tomorrow, together. 🤝✨
