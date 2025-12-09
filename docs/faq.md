@@ -1,16 +1,24 @@
-# FAQ — CoAI Network (Initial Version)
+# FAQ — CoAI Network
 
 **Who can participate?**  
-Anyone: researchers, engineers, students, companies, communicators, and citizens.
+Anyone interested in responsible AI: researchers, developers, students,
+companies, communicators and curious citizens.
 
-**Is there a cost to join?**  
-No. The seed phase is free. We may explore sponsorships or memberships later with full transparency.
+**Is participation free?**  
+Yes — the seed phase is free. Future support models (donations or
+ethical sponsorships) will be transparently discussed.
 
-**How is the project funded?**  
-Initially through volunteer effort and small donations. Future sponsorships will follow a clear conflict-of-interest policy.
+**Can I present my project to find collaborators or funding?**  
+Absolutely. We provide a space to share proposals and connect with partners.
 
-**Can I present my project for support or funding?**  
-Yes. We are establishing a “Project Showcase” section with a transparent proposal process.
+**How is the community moderated?**  
+A founding moderation team and an evolving Ethics Committee. Governance
+will progressively become participatory and transparent.
 
-**Who moderates the community?**  
-An initial moderation team and an Ethics Committee. Governance will evolve toward community-driven models.
+**How can companies benefit from CoAI Network?**  
+By sharing innovation responsibly, finding talent, receiving ethical
+feedback, and building trust with the community.
+
+**Do I need expertise in AI to contribute?**  
+No. We value a plurality of voices — the future of AI concerns everyone.
+
