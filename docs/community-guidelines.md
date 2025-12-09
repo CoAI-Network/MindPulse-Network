@@ -1,36 +1,79 @@
-# Community Guidelines
+# Community Guidelines — CoAI Network 🌍  
+**Collaborative · Responsible · Human-Centered AI**
 
-CoAI Network is a respectful space for collaboration between citizens,
-companies, researchers and developers from all over the world.
+## 🌱 Introduction
+CoAI Network is more than a technical forum — it is a living community where collaboration, ethics, and inclusivity guide every interaction.  
+These Community Guidelines define how we engage with one another, ensuring that our spaces remain respectful, constructive, and aligned with our shared mission and values.
 
-To ensure that discussions remain constructive and inclusive:
+---
 
-1. **Respect first**
-   Treat people with dignity, even when opinions differ.
-   - 🚫 No harassment, insults, discriminatory language, or personal attacks.
+## 🔹 Principles of Participation
 
-2. **Evidence-based contribution**
-   When discussing scientific or technical topics, provide references where possible.
+### 🤝 Respect and Empathy
+- Treat all members with dignity, regardless of background, expertise, or opinion.  
+- Listen actively and respond with empathy.  
+- Avoid personal attacks, harassment, or discriminatory language.  
 
-3. **Privacy protection**
-   Do not share private information without explicit consent.
+### 🌍 Inclusivity
+- Welcome diverse voices and perspectives.  
+- Ensure accessibility in communication (clear language, translations when possible).  
+- Encourage participation from underrepresented groups in AI and technology.  
 
-4. **No harmful intent**
-   Content that promotes real-world harm (e.g., weapons, malware, unsafe experiments)
-   is not allowed.
+### ✨ Constructive Dialogue
+- Focus on ideas, not individuals.  
+- Provide feedback that is specific, respectful, and actionable.  
+- Support healthy debate while maintaining a collaborative tone.  
 
-5. **Conflict transparency**
-   Declare affiliations or conflicts of interest when relevant.
+### 🧭 Responsibility
+- Share information that is accurate and properly sourced.  
+- Disclose limitations, risks, or uncertainties in projects and discussions.  
+- Uphold ethical standards in all contributions.  
 
-6. **Clear and accessible language**
-   If using technical terms in public threads, explain them briefly.
+### 💡 Collaboration
+- Credit contributions and acknowledge teamwork.  
+- Share resources openly to empower others.  
+- Seek opportunities to connect projects with community needs.  
 
-7. **Open moderation**
-   Moderation decisions are transparent and may be appealed respectfully.
+---
 
-8. **Ethical responsibility**
-   Projects involving human data or participation must go through our Ethics Committee.
+## 🌍 Expected Behaviors
+- Introduce yourself and share your interests when joining.  
+- Use Discussions and channels for their intended purpose (Announcements, Show & Tell, Ethics, Projects).  
+- Cite sources when sharing research or external content.  
+- Respect moderators and community decisions.  
+- Report issues constructively rather than escalating conflict.  
 
-These guidelines apply to every member, to build a safe, collaborative
-and enriching community for all.
+---
 
+## ⚠️ Unacceptable Behaviors
+- Harassment, hate speech, or discriminatory remarks.  
+- Sharing misleading or harmful information.  
+- Plagiarism or failure to credit sources.  
+- Spam, self-promotion without context, or disruptive behavior.  
+- Ignoring ethical principles outlined in the [Code of Ethics](./code-of-ethics.md).  
+
+---
+
+## 💡 Practical Examples
+- **Good practice:** Sharing a prototype with clear documentation, licensing, and an invitation for feedback.  
+- **Good practice:** Engaging in debate about AI ethics with respect for differing viewpoints.  
+- **Not acceptable:** Posting offensive memes or dismissing contributions based on identity or background.  
+- **Not acceptable:** Promoting a product or service without relevance to the community’s mission.  
+
+---
+
+## 🌱 Moderation
+- Moderators ensure that guidelines are upheld and that discussions remain constructive.  
+- Violations may result in warnings, temporary suspension, or removal from the community.  
+- Appeals and feedback are welcome — moderation is transparent and accountable.  
+
+---
+
+## ✨ Living Guidelines
+These guidelines are not static. They evolve with the community and adapt to new challenges.  
+Members are encouraged to propose updates and improvements, ensuring that CoAI Network remains a safe, inclusive, and inspiring space.
+
+---
+
+📌 **Summary:**  
+The Community Guidelines of CoAI Network foster a culture of **respect, inclusivity, responsibility, and collaboration**. They ensure that our spaces remain constructive and ethical, empowering all members to contribute meaningfully to the future of AI.
