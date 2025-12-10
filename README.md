@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/coai-bridge.png" alt="CoAI Network bridge logo" width="320"/>
+  <img src="/assets/coai-bridge.png" alt="CoAI Network bridge logo" width="320"/>
 </p>
 
 # CoAI Network 🌍  
