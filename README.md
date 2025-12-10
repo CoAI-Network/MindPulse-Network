@@ -79,3 +79,13 @@ We invite you to co-create this journey with us.
 📌 **Summary:**  
 CoAI Network is a collaborative, ethical, and inclusive community dedicated to building AI with humanity at its core.  
 Together, we can shape a future where innovation and responsibility go hand in hand.
+
+---
+
+## 📄 License
+
+The **CoAI Network Wiki** is published under a  
+**Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+You are free to use, share, and adapt the content —  
+as long as attribution is provided and derivatives use the same license.
